@@ -4,7 +4,7 @@ kernel module.
 LiveSuit is a tool to flash Images to the NAND of Allwinner devices.
 
 The latest version of this software can be retrieved from:
-https://github.com/linux-sunxi/sunxi-livesuit
+https://github.com/proxlu/sunxi-livesuit
 
 For more information on this repository or on this utility, check our
 wiki at http://linux-sunxi.org/LiveSuit
