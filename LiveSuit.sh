@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# if [ ]
-# then
-# sudo dpkg -i ./libpng12-0_1.2.49-1+deb7u2_amd64.deb
-# fi
-
 APP=LiveSuit
 TOP_DIR=`pwd`
 
